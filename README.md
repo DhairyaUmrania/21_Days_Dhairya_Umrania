@@ -7,3 +7,4 @@ My level would fall somewhere between intermediate and advanced, as for the road
 This is my work for the 21 days of data science:
 
 Day 1: Created Git repo, continued on my ML course, and Excel course.
+Day 2: Continued with excel course, continued with ML course, started refering to notes provided by DataZen.
