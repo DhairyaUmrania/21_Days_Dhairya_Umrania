@@ -8,3 +8,6 @@ This is my work for the 21 days of data science:
 
 Day 1: Created Git repo, continued on my ML course, and Excel course.
 Day 2: Continued with excel course, continued with ML course, started refering to notes provided by DataZen.
+Day 3: Learned about clustering and how to implement it in python.
+Day 4: Learned further about clustering, learned about different methods: K means, Hierarchical, etc, also continued with Excel course.
+
