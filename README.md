@@ -15,4 +15,7 @@ Day 6: Continued with both courses and also learned about image processing in De
 Day 7: Learned about neural networks, learned about Apriori in ML
 Day 8: Learned about Eclat and Continued with Excel course. Also started working on data collection of one of my projects.
 Day 9: Learned about NLP, continued with project, and also looked for possible project ideas of Data Science/Analytics. 
-Day 10: 
+Day 10: Continued with ML course about NLP, and excel.
+Day 11: Learned about Deep learning.
+Day 12: Learned about Image processing using deep learning.
+Day 13: Continued with ML course, and Excel Course.
