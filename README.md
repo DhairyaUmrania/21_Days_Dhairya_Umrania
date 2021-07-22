@@ -19,4 +19,6 @@ Day 10: Continued with ML course about NLP, and excel.
 Day 11: Learned about Deep learning.
 Day 12: Learned about Image processing using deep learning.
 Day 13: Continued with ML course, and Excel Course.
-Day: 14: Learned about gradient descent in deep learning.
+Day 14: Learned about gradient descent in deep learning.
+Day 15: Learned about multi-armed bandit theory
+Day 16: Learned the maths regarding PCA.
