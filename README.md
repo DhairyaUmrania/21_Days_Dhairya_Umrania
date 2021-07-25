@@ -22,3 +22,6 @@ Day 13: Continued with ML course, and Excel Course.
 Day 14: Learned about gradient descent in deep learning.
 Day 15: Learned about multi-armed bandit theory
 Day 16: Learned the maths regarding PCA.
+Day 17: Learned about deep learning in python
+Day 18: Continued with ML and Excel course.
+Day 19: Learned about PCA
