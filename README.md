@@ -25,3 +25,5 @@ Day 16: Learned the maths regarding PCA.
 Day 17: Learned about deep learning in python
 Day 18: Continued with ML and Excel course.
 Day 19: Learned about PCA
+Day 20: Learned about statistics required for ML
+Day 21: Implemented Deep learning model in python.
